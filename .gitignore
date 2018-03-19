@@ -79,3 +79,5 @@ innoquartz-server.*.*
 !src/test/resources/*
 *.ucls
 /.apt_generated/
+.idea/
+spring-boot-jsp-sample.iml
